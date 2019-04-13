@@ -1,2 +1,2 @@
 # Liri-Bot
-[Example]("./image.png")
+[Example](./image.png)
